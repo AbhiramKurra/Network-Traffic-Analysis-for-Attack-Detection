@@ -23,7 +23,7 @@ This Python-based project analyzes network traffic data captured in a `.csv` fil
 1. **Clone the Repository**:
     ```bash
     git clone https://github.com/AbhiramKurra/Network-Traffic-Analysis-for-Attack-Detection.git
-    cd network-traffic-analysis
+    cd <directory_of_files_saved>
     ```
 
 2. **Install Dependencies**:
